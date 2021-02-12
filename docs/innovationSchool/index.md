@@ -11,14 +11,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ![profilePic](..laserCADModel.png)
 
 
-[Keshav Mohta](projects/bloom/bloom.md)
+[Keshav Mohta](projects/keshavMohta/keshavMohta.md)
 
 ![profilePic](..profilePic.jpegg)
 
-[Rhiaan Jhaveri](projects/bloom/bloom.md)
+[Rhiaan Jhaveri](projects/rhiaanJhaveri/rhiaanJhaveri.md)
 
 ![profilePic](..profilePic.jpeg)
 
-[Juhu Beach Problem](projects/bloom/bloom.md)
+[Juhu Beach Problem](projects/sidTaha/sidTaha.md)
 
 ![profilePic](..profilePic.jpeg)

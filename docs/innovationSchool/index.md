@@ -6,7 +6,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ![profilePic](..profilePic.jpeg)
 
-[Foot Operated Pedal](projects/footOperatedPedal/footOperatedPedal.md)
+[EZ Door](projects/footOperatedPedal/footOperatedPedal.md)
 
 ![profilePic](..laserCADModel.png)
 
@@ -15,7 +15,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ![profilePic](..profilePic.jpegg)
 
-[Rhiaan Jhaveri](projects/rhiaanJhaveri/rhiaanJhaveri.md)
+[EyeDentify](projects/rhiaanJhaveri/rhiaanJhaveri.md)
 
 ![profilePic](..profilePic.jpeg)
 

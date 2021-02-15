@@ -8,7 +8,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 [EZ Door](projects/footOperatedPedal/footOperatedPedal.md)
 
-![profilePic](..laserCADModel.PNG)
+![profilePic](..laserCADModel.png)
 
 
 [Keshav Mohta](projects/keshavMohta/keshavMohta.md)

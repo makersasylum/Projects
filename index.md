@@ -7,7 +7,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 [Innovation School](docs/innovationSchool/index.md)
 
 
-![SECAP2021](..SECAPBanner.png)
+![SECAP2021](SECAPBanner.png)
 
 [SECAP](docs/secap/SECAPIndex.md)
 

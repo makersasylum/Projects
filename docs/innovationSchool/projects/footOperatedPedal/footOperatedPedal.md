@@ -10,13 +10,13 @@ Door handles are one of the most obvious surfaces that are prone to contaminatio
 Currently, there exist mainly three types of solutions that are popular.
 
 #### Automatic Door Mechanism
-![automatic door](..automaticDoor.png)
+![automatic door](automaticDoor.png)
 
 #### Door Handle
-![Door Handle](..doorHandle.png)
+![Door Handle](doorHandle.png)
 
 #### Foot Knobs
-![Foot Knob](..footKnob.png)
+![Foot Knob](footKnob.png)
 
 ### Proposed solution:
 Keeping in mind the shortcomings of the three existing solutions above, I tried to reach a design that was: 
@@ -29,9 +29,9 @@ Keeping in mind the shortcomings of the three existing solutions above, I tried 
 ### ***Prototyping***
 1. ***Prototype 1:***  
 
-![Prototype 1](..footPedalDraft1.png) 
+![Prototype 1](footPedalDraft1.png) 
 
-![Top View](..FootPedalDraft1prototypeLegotop.png)
+![Top View](FootPedalDraft1prototypeLegotop.png)
 
 Using A tissue box, some lego blocks, and rope, I designed a physical prototype of my CAD model. This worked to pull down the handle with some struggle, but very often broke when pushed to open the door. I also had to tape the rope to the handle since when pressed down the handle would slip.
 Improvements that were needed for the next prototype were:  

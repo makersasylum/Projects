@@ -7,11 +7,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ![profilePic](laserCADModel.PNG)
 
 
-[Keshav Mohta](projects/keshavMohta/keshavMohta.md)
+[Keshav Mohta](projects/keshavMohta/tennisFinder.md)
 
 ![profilePic](profilePic.jpg)
 
-[EyeDentify](projects/rhiaanJhaveri/rhiaanJhaveri.md)
+[EyeDentify](projects/rhiaanJhaveri/index.md)
 
 ![profilePic](profilePic.jpg)
 

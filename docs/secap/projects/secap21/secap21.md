@@ -12,7 +12,7 @@
 
 [Team 7: **BASIC**](https://bhavya2000gupta.wixsite.com/group-website) 
 
-[Team 8:**Safe Sips**](https://sites.google.com/student.monash.edu/safesips-team8) 
+[Team 8: **Safe Sips**](https://sites.google.com/student.monash.edu/safesips-team8) 
 
 [Team 9: **Hydrohouse**](https://sites.google.com/view/hydrohouse-team9)
 
